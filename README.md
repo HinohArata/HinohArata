@@ -49,7 +49,7 @@
 
 <!-- About Section -->
  # About me
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="250" src="/assets/programmer.gif" alt="Coding gif" />
 
 
 
