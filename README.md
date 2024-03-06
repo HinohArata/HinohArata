@@ -53,6 +53,7 @@
  <p align="left">
   <a href="https://instagram.com/_myvinz" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="HinohArata" />
+   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   </a>
  </p>
  <p align="left">
