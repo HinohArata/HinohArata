@@ -48,22 +48,10 @@
 <br />
 
 <!-- About Section -->
- # About me
- <img align="right" width="250" src="/assets/programmer.gif" alt="Coding gif" />
+![](https://github.com/HinohArata/help/blob/main/giphy.gif)
 
 
-
- 
- <p align="left">
-  <a href="https://instagram.com/_myvinz" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="HinohArata" />
-  </a>
- </p>
- <p align="left">
-  <a href="https://facebook.com/alfin.ashta" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="HinohArata"  />
-  </a>
- </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HinohArata&show_icons=true&theme=transparent)
   
 
 
