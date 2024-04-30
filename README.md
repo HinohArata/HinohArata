@@ -51,9 +51,8 @@
 ## My stats ##
 ![](https://github.com/HinohArata/help/blob/main/giphy.gif)
 
-Just beginner and want to be pro...
-- Maintainer of HorizonDroid Official for Surya
-- Maintainer of EverestOS Official for Surya
+Just beginner and want to be pro... and I'm still learning
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HinohArata&show_icons=true&theme=transparent)
   
 
